@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adjacency_matrix", "adjacency_matrix.csproj", "{94FED9CA-A0E1-4D5A-87C0-4129469C67DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94FED9CA-A0E1-4D5A-87C0-4129469C67DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FED9CA-A0E1-4D5A-87C0-4129469C67DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FED9CA-A0E1-4D5A-87C0-4129469C67DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FED9CA-A0E1-4D5A-87C0-4129469C67DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AB1B2D1-21E2-45AE-8EA3-119FBC72B6C4}
+	EndGlobalSection
+EndGlobal
